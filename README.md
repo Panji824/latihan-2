@@ -1,1 +1,5 @@
-# latihan-2
+# pengalaman belajar
+--repositori isi pelajaran dicoding
+
+*java
+*dll
